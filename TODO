@@ -1,0 +1,5 @@
+In state gameplay: create crosshair. On crosshair click Draw a vector to destination (FIRE). Trigger explosion at target. 
+
+#FIRE
+draw a line along slope over time
+define warhead that blinks colors 
